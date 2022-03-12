@@ -8,14 +8,14 @@ If you have passion for 3D and you wisch to share knowledge, I am open for conta
 - 🔭 I’m currently working on DirectX11 application I wish to create simple 3D CAD.  https://github.com/oBornToCreateo/JCAD2
 
 - 🌱 I’m currently learning:
-  - C++11/17/20
-  - HLSL
-  - DirectX11
-  - Win32 API
-  - CMmake
+  - C++11/17/20,
+  - HLSL,
+  - DirectX11,
+  - Win32 API,
+  - CMake
 
 - 👯 I’m looking to collaborate mostly on 3D Software:
-  - Games
+  - Games,
   - CAD software,
   - Embedded Solutions
 
