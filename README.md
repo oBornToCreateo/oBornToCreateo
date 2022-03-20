@@ -25,7 +25,7 @@ If you have passion for 3D and you can share knowledge, I am open for contact, y
 
 
 
-![movie]( https://user-images.githubusercontent.com/31966031/159155896-1f12bae6-47c7-45a5-b78b-431d3be25799.mp4)
+https://user-images.githubusercontent.com/31966031/159155896-1f12bae6-47c7-45a5-b78b-431d3be25799.mp4
 
 
 
