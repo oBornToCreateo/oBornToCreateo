@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I am 28 years old, I have extensive experience in 3D modeling using CAD/CAM software,
-### I love mathematics and physics after long break caused by health problems I am going back to learn how to develop CAD/CAM/CAE software.
+### I love mathematics and physics my goal is to learn how to develop CAD/CAM/CAE software.
 
 If you have passion for 3D and you can share knowledge, I am open for contact, you can reach me throught ![LinkedIn](https://www.linkedin.com/in/kjfreelancing/)
 
