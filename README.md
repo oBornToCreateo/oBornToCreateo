@@ -2,11 +2,7 @@
 
 I am 28 years old, I have extensive experience in 3D modeling using CAD/CAM software,
 I love mathematics and physics my goal is to learn how to develop CAD/CAM/CAE software.
-
-
-## 🔭 I’m currently working on 
-
-   - DirectX11 application I wish to create simple 3D CAD.  https://github.com/oBornToCreateo/JCAD2
+I am self study invidual with no degree.
 
 ## 🌱 I’m currently learning:
 
