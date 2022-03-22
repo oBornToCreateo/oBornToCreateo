@@ -27,6 +27,9 @@ I love mathematics and physics my goal is to learn how to develop CAD/CAM/CAE so
   - I wish to work on 3d software but it will take long time for me to learn.
 
 
+
+## 💻 Some of my code
+
 | Project | Description |
 | ------------- | ------------- |
 | ![JCAD](https://github.com/oBornToCreateo/JezierCad)  | 2D Drawing Apllication  |
