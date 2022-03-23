@@ -29,7 +29,7 @@ I am self study invidual with no degree.
 | Project | Description |
 | ------------- | ------------- |
 | ![JCAD](https://github.com/oBornToCreateo/JezierCad)  | 2D Drawing Apllication  |
-| ![JCAD2](https://github.com/oBornToCreateo/JCAD2)  | Eary stage of Development of 3D Frame work  |
+| ![JCAD2](https://github.com/oBornToCreateo/JCAD2)  | Eary stage of development of 3D framework  |
 | ![Robot Simulator](https://github.com/oBornToCreateo/WEB-EXCERCISES)  | Excercises from the internet combined in to one solution  |
 
 
