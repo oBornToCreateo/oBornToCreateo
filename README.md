@@ -7,8 +7,9 @@ I am self study invidual with no degree.
 ## 🌱 I’m currently learning:
 
   - C++11/17/20,
-  - HLSL,
-  - DirectX11,
+  - DEAL.II,
+  - CGAL,
+  - DirectX11,HLSL,
   - Win32 API,
   - CMake
 
