@@ -6,12 +6,10 @@ I am self study invidual with no degree.
 
 ## 🌱 I’m currently learning:
 
-  - C++11/17/20,
-  - DEAL.II,
-  - CGAL,
+  - C++11/14/17/20,
   - DirectX11,HLSL,
   - Win32 API,
-  - CMake
+ 
 
 ## ⚡ Fun fact:
 
