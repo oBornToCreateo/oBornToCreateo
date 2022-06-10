@@ -29,8 +29,8 @@ I am self study invidual with no degree.
 | ------------- | ------------- |
 | ![JCAD](https://github.com/oBornToCreateo/JezierCad)  | 2D Drawing Apllication  |
 | ![JCAD2](https://github.com/oBornToCreateo/JCAD2)  | Eary stage of development of 3D framework  |
-| ![File Explorer](https://github.com/oBornToCreateo/File_Explorer) | Excercises from the internet combined in to one solution  |
-| ![QFile Explorer](https://github.com/oBornToCreateo/QT_FILE_Explorer) | Excercises from the internet combined in to one solution  |
+| ![File Explorer](https://github.com/oBornToCreateo/File_Explorer) | First approach To the recruitment task  |
+| ![QFile Explorer](https://github.com/oBornToCreateo/QT_FILE_Explorer) | Second approach To the recruitment task  |
 | ![Robot Simulator](https://github.com/oBornToCreateo/WEB-EXCERCISES)  | Excercises from the internet combined in to one solution  |
 
 
