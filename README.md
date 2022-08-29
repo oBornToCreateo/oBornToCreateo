@@ -1,25 +1,27 @@
 ## 🙋‍♂️ About Me
 
-I am 28 years old, I have extensive experience in 3D modeling using CAD/CAM software,
-I love mathematics and physics my goal is to learn how to develop CAD/CAM/CAE software.
-I am self study invidual with no degree.
+- TaktycznySchizofrenik.com -> (NO DOTS) Proudly made in Poland, about my passion to art my health problems all to gether my life :)
 
-## 🌱 I’m currently learning:
+- kjezier.wixsite.com/portfolio -> engineering blog
 
-  - C++11/14/17/20,
+- and here my ability to perform abstract thinking
+
+## 🌱 I am currently learning / my current field of study :
+
+  - What ever it takes to feel adrenaline in my veins XD no joke :)
   - DirectX11,HLSL,
   - Win32 API,
  
 
 ## ⚡ Fun fact:
 
-  - Since the very beginning I was into programming, I went to operate CNC machines and I was wishing to perform programming on them but all I was doing was changing variables, I can remember I was more interested In software mathematics than in operating machines itself. 
+  - Since the very beginning of my poffesional carrer I was into programming, I went to operate CNC machines and I was wishing to perform programming on them but all I was doing was changing variables, I can remember I was more interested In software mathematics than in operating machines itself. long story..........
 
 
 
 ## 👯 I’m looking to collaborate on:
 
-  - I wish to work on 3d software but it will take long time for me to learn.
+  - coplex and creative projects
 
 
 
