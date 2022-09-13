@@ -2,7 +2,6 @@
 
 | Project | Description |
 | ------------- | ------------- |
-| ![JCAD](https://github.com/oBornToCreateo/JezierCad)  | 2D Drawing Apllication  |
 | ![JCAD2](https://github.com/oBornToCreateo/JCAD2)  | Eary stage of development of 3D framework  |
 | ![File Explorer](https://github.com/oBornToCreateo/File_Explorer) | First approach To the recruitment task  |
 | ![QFile Explorer](https://github.com/oBornToCreateo/QT_FILE_Explorer) | Second approach To the recruitment task  |
